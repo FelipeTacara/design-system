@@ -1,0 +1,2 @@
+import{A as t}from"./index.a75c6331.js";import"./index.10f64e1e.js";import"./iframe.7df42e67.js";import"./index.68605f3f.js";import"./jsx-runtime.a26a2446.js";const p={title:"Data display/Avatar",component:t,args:{src:"https://github.com/FelipeTacara.png",alt:"Felipe Tacara"},argTypes:{src:{control:{type:"text"}}}},c={},e={args:{src:void 0}},l=["Primary","WithFallback"];export{c as Primary,e as WithFallback,l as __namedExportsOrder,p as default};
+//# sourceMappingURL=Avatar.stories.2242f899.js.map
